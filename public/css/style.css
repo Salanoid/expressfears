@@ -1,0 +1,72 @@
+a.btn.btn-block.btn-primary.btn-custom.btn-custom {
+    margin-top: 8px;
+}
+ul.nav.navbar-nav.navbar-right {
+    padding-right: 10px;
+    margin-right: 30px;
+}
+
+textarea {
+    resize: vertical;
+    height: 900px;
+}
+
+nav.navbar-default .navbar-brand {
+    color: #31708f;
+    position: absolute;
+    display: inline-block;
+    font-size: 3.4rem;
+    white-space: nowrap;
+    font-family: 'Dancing Script', cursive;
+    padding-left: 40px;
+}
+
+nav.navbar-default .navbar-brand:hover {
+    color: #31708f;
+}
+
+.dancing-script {
+    font-family: 'Dancing Script', cursive;
+}
+
+.fears {
+  margin-top: 50px;
+}
+
+.fears .card .collapsible {
+  border:none;
+}
+.fear {
+  margin-bottom: 50px;
+}
+.fears .card .collapsible-header {
+  background: transparent;
+  border:none;
+  color:#ddd;
+}
+
+.fears .card .collapsible-header.active {
+  color:#fff;
+}
+.fears .card .collapsible-body {
+  border:none;
+}
+
+a.btn.btn-primary {
+    background-color: #31708f;
+    border-color: #31708f;
+}
+
+form input.btn.btn-primary {
+    background-color: #31708f;
+    border-color: #31708f;
+}
+
+form textarea.form-control {
+    height: 620px;
+}
+
+nav.navbar.navbar-default {
+    height: 54px;
+    line-height: 54px;
+}
